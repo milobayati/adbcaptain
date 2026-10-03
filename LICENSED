@@ -1,0 +1,250 @@
+NM, [8/23/26, 6:01 PM]
+# ORION - PROPRIETARY & PRIVACY LICENSE
+
+## 1. LICENSE AGREEMENT
+
+Last Updated: August 23, 2026
+
+This Proprietary and Privacy License ("License") governs the use of the Orion blockchain algorithms, source code, and all associated data ("Software").
+
+---
+
+## 2. OWNERSHIP & INTELLECTUAL PROPERTY
+
+### 2.1 Proprietary Rights
+- All algorithms, source code, documentation, and intellectual property contained within Orion are proprietary and confidential.
+- The developers and contributors of Orion retain full ownership of all intellectual property rights.
+- No copyright notice is required; all rights are reserved by default.
+
+### 2.2 Trade Secrets
+All technical implementations, including but not limited to:
+- Smart contract algorithms
+- Consensus mechanisms
+- Cryptographic implementations
+- Data structures and optimization techniques
+- Network protocols and communication methods
+
+ARE CONSIDERED TRADE SECRETS and must be treated as confidential.
+
+---
+
+## 3. DATA PROTECTION & CONFIDENTIALITY
+
+### 3.1 Source Data Protection
+- No unauthorized access to source datasets is permitted
+- All data used in training, testing, or validation of algorithms is strictly confidential
+- Data cannot be:
+  - Copied, extracted, or exported
+  - Shared with external parties (including OpenAI, cloud providers, or third parties)
+  - Used for purposes other than authorized Orion development
+  - Analyzed or processed by external services without explicit written permission
+
+### 3.2 Internal Data Security
+All internal data including:
+- Transaction data
+- User information
+- System metadata
+- Performance metrics
+- Development records
+
+MUST BE:
+- Encrypted at rest and in transit
+- Stored only on authorized, secure infrastructure
+- Accessed only by authorized personnel with valid credentials
+- Never transmitted to cloud services without explicit approval
+- Protected under strict access control policies
+
+### 3.3 API & Third-Party Services
+- OpenAI API Access: Prohibited unless explicitly authorized in writing
+- No AI/ML training data can be sent to external services
+- No algorithms can be reverse-engineered using third-party services
+- All external integrations must be pre-approved and documented
+
+---
+
+## 4. PERMITTED USE
+
+### 4.1 Who Can Use Orion?
+- ✅ Authorized developers and team members
+- ✅ Core development team only
+- ✅ Persons with explicit written permission from project maintainers
+
+### 4.2 Permitted Activities
+- ✅ Internal development and testing
+- ✅ Integration within authorized projects
+- ✅ Local deployment and execution (127.0.0.1 / localhost)
+- ✅ Documentation and knowledge sharing (internally only)
+
+---
+
+## 5. PROHIBITED ACTIVITIES
+
+### 5.1 Strictly Forbidden
+- ❌ Distribution: Sharing, publishing, or releasing to public repositories
+- ❌ Commercial Use: Using algorithms for profit without authorization
+- ❌ Reverse Engineering: Attempting to understand, copy, or recreate algorithms
+- ❌ Data Extraction: Exporting or accessing source data
+- ❌ Third-Party Sharing: Sharing with contractors, consultants, or external parties
+- ❌ Open Sourcing: Publishing under open-source licenses without written approval
+- ❌ Cloud Upload: Uploading code or data to cloud services (AWS, Azure, GCP, etc.)
+- ❌ AI Training: Using algorithms or data to train external AI models (including OpenAI)
+- ❌ Modification Without Rights: Altering code without authorization
+- ❌ Competitive Use: Using algorithms to create competing products or services
+
+---
+
+## 6. ACCESS CONTROL & AUTHORIZATION
+
+### 6.1 Access Requirements
+- Each user must have documented authorization
+- Access logs must be maintained and auditable
+- Unauthorized access attempts will result in:
+  - Immediate revocation of access
+  - Legal action if necessary
+  - Potential criminal charges under applicable laws
+
+### 6.2 Revocation
+Access can be revoked at any time, for any reason, at the discretion of the project maintainers.
+
+---
+
+## 7. DATA HANDLING COMPLIANCE
+
+NM, [8/23/26, 6:01 PM]
+### 7.1 GDPR & Privacy Regulations
+If personal data is processed:
+- ✅ Data processing agreements must be in place
+- ✅ Data subjects must be informed
+- ✅ Data retention policies must be documented
+- ✅ Right to deletion must be honored
+
+### 7.2 Blockchain-Specific Data
+- All blockchain transactions are immutable
+- Privacy considerations must be addressed in smart contracts
+- User data collection must be minimized and purposeful
+
+---
+
+## 8. CONFIDENTIALITY OBLIGATIONS
+
+### 8.1 Duration
+Confidentiality obligations continue:
+- ✅ During active use of the Software
+- ✅ Indefinitely after termination for trade secrets
+- ✅ Forever for proprietary algorithms (unless officially released)
+
+### 8.2 Permitted Disclosures
+Information may only be disclosed to:
+- Employees with documented need-to-know
+- Authorized contractors with signed NDAs
+- Legal representatives (under court order only)
+
+---
+
+## 9. SECURITY REQUIREMENTS
+
+### 9.1 Technical Controls
+- ✅ Use strong authentication (2FA/MFA)
+- ✅ Encrypt all data in transit (TLS/SSL)
+- ✅ Encrypt all data at rest (AES-256 or better)
+- ✅ Maintain access logs and audit trails
+- ✅ Regular security audits and penetration testing
+- ✅ Keep all dependencies and systems updated
+
+### 9.2 Physical Security
+- ✅ Secure access to physical infrastructure
+- ✅ Documented access to development machines
+- ✅ Secure disposal of storage media
+
+---
+
+## 10. LIABILITY & INDEMNIFICATION
+
+### 10.1 Disclaimer
+THE SOFTWARE IS PROVIDED "AS-IS" WITHOUT ANY WARRANTIES, EXPRESS OR IMPLIED.
+
+### 10.2 Limitation of Liability
+The developers shall not be liable for:
+- Direct or indirect damages
+- Data loss or corruption
+- Security breaches due to user negligence
+- Third-party claims
+
+### 10.3 Indemnification
+Users agree to indemnify and hold harmless the developers from:
+- Claims arising from unauthorized use
+- Violations of this license
+- Third-party intellectual property claims
+- Regulatory violations
+
+---
+
+## 11. TERMINATION
+
+### 11.1 Immediate Termination
+This license terminates immediately upon:
+- Violation of any provision
+- Unauthorized disclosure
+- Attempt to reverse-engineer or decompile
+- Use beyond authorized scope
+- Transfer of code to unauthorized parties
+
+### 11.2 Effects of Termination
+Upon termination:
+- ❌ All access is revoked immediately
+- ❌ All copies must be destroyed (except legally required copies)
+- ❌ All data must be returned or securely deleted
+- ❌ Confidentiality obligations remain in effect
+
+---
+
+## 12. LEGAL COMPLIANCE
+
+### 12.1 Applicable Law
+This License is governed by applicable laws in the jurisdiction where Orion is maintained.
+
+### 12.2 Enforcement
+- Violations will be pursued to the fullest extent of the law
+- Injunctive relief may be sought immediately
+- Criminal charges may be filed for serious violations
+- Civil damages will be claimed for losses
+
+### 12.3 Export Controls
+If applicable, users agree to comply with:
+- U.S. Export Administration Regulations (EAR)
+- International Traffic in Arms Regulations (ITAR)
+- Sanctions and embargo regulations
+- Cryptography export restrictions
+
+---
+
+## 13. MODIFICATIONS TO LICENSE
+
+The project maintainers reserve the right to modify this License at any time. Users will be notified of material changes. Continued use constitutes acceptance of updated terms.
+
+---
+
+## 14. CONTACT & DISPUTES
+
+For questions or disputes regarding this License:
+- 📧 Email: [lish_saman@yahoo]
+- 📝 GitHub Issues: [RB]
+- ⚖️ Legal inquiries: [MIT contact]
+
+---
+
+## 15. ACKNOWLEDGMENT
+
+By accessing or using Orion, you acknowledge that you have:
+- ✅ Read and understood this License
+- ✅ Agreed to all terms and conditions
+- ✅ Understand the confidentiality obligations
+- ✅ Accepted all liability limitations
+
+If you do not agree, DO NOT USE this software.
+
+---
+UMBRELLA NETWORK 
+Last Updated: August 23, 2026  
+License Version: 1.0  
+Status: ACTIVE - All Rights Reserved
